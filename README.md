@@ -195,13 +195,4 @@ The analyzer supports switching between local (Ollama) and cloud (Gemini) LLMs.
 Set the `LLM_BACKEND` environment variable to `ollama` (default) or `gemini` as needed.  
 Ollama requires no API key; Gemini requires a Google API key.
 
----
 
-## 👤 Author
-
-**Name:** Nivas Matta  
-**Role:** B.Tech CSE AI/ML Student  
-**University:** Woxsen University, India  
-**GitHub:** [45nivas](https://github.com/45nivas)
-
----
